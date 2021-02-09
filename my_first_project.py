@@ -18,3 +18,5 @@ def hello(who='world'):
     return result
 
 # eof
+
+print(hello())
