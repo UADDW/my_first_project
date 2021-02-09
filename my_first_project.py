@@ -20,3 +20,4 @@ def hello(who='world'):
 # eof
 
 print(hello())
+print('Can you hear me?')
